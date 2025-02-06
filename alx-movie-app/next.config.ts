@@ -1,11 +1,11 @@
-import type { NextConfig } from "next";
+// import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  /* config options here */
-  reactStrictMode: true,
-  images: {
-    domains: ['m.media-amazon.com'], 
-  },
-};
+// const nextConfig: NextConfig = {
+//   /* config options here */
+//   reactStrictMode: true,
+//   images: {
+//     domains: ['m.media-amazon.com'], 
+//   },
+// };
 
-export default nextConfig;
+// export default nextConfig;
